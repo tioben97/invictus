@@ -1,0 +1,4 @@
+.env
+*.pdb
+node_modules/
+data/
