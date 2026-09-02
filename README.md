@@ -6,8 +6,8 @@ Baixe o aplicativo somente pelos Releases oficiais deste repositório ou pelo se
 
 ## Última versão
 
-- Versão: 3.1.9
-- Arquivo: `InVicTus-3.1.9-LIGHT-PRO-ONLINE.zip`
-- SHA256: `56A91A0B8F5A5E47302C31CD5B3DDFE91CDD9AB48ACDB344C9682ACE5E27E66D`
+- Versão: 3.1.10
+- Arquivo: `InVicTus-3.1.10-LIGHT-PRO-ONLINE.zip`
+- SHA256: `3AC89767938C121F12BE3A265E767D71D360D15CB8A981B4484C42B9D2834ED0`
 
 O aplicativo possui licenciamento online, verificação de integridade local e atualização validada por SHA256.
